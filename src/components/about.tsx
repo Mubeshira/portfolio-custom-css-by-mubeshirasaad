@@ -29,15 +29,15 @@ export default function About() {
         {/* right */}
         <div className="hero-right-div">
             <h1 className="title-hero">About Us</h1>
-                <p className="des-hero"> Hi, I'm <b>Mubeshira Saad</b>, a passionate web developer with expertise in building 
+                <p className="des-hero"> Hi, I am <b>Mubeshira Saad</b>, a passionate web developer with expertise in building 
           modern, responsive websites and web applications. I love turning ideas 
           into reality using the power of JavaScript, Next.js, and Tailwind CSS.
           With a background in computer science, I have developed a wide range of 
           skills including HTML, CSS, TypeScript, JavaScript, React, Next.js, and more. I believe in 
           writing clean, scalable code and creating engaging user experiences.
-          When I'm not coding, you can find me reading, writing, and traveling.
+          When I am not coding, you can find me reading, writing, and traveling.
           I am constantly learning new technologies and improving my skills to stay up-to-date
-          with industry trends. Feel free to check out my portfolio and reach out if you'd like 
+          with industry trends. Feel free to check out my portfolio and reach out if you had like 
           to collaborate on a project or just chat!
 </p>
             

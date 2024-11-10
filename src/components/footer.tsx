@@ -1,7 +1,7 @@
 import "../style/footer.css";
 
 
-function footer() {
+function Footer() {
   return (
     <div className="footer">
       <p>Developed by Mubeshira Saad.</p>
@@ -13,4 +13,4 @@ function footer() {
   )
 }
 
-export default footer
+export default Footer
