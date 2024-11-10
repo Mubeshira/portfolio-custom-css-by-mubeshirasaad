@@ -1,0 +1,66 @@
+.services{
+    width: 100%;
+    height:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+.ser-container{
+    width: 80%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    
+}
+.boxes-con{
+    width: 100%;
+    display: flex;
+    margin-top: 30px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    width: 250px;
+    height: 200px;
+    background-color: rgb(116, 181, 237);
+    border: 2px solid black;
+    margin: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+
+    &:hover{
+        transform: scale(1.02);
+  
+      }
+}
+.top-div-ser{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.title-ser{
+    font-size: 38px;
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+.des-ser{
+    margin-top: 20px;
+}
+.ser-icon{
+    font-size: 100px;
+}
+@media screen and (min-width:100px) and (max-width: 750px){
+    
+    .top-div-ser{
+        width: 80%;
+       
+    }
+
+}

@@ -1,0 +1,21 @@
+.social-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sicon1{
+    font-size: 30px;
+    color: blue;
+    margin: 7px;
+}
+.sicon2{
+    font-size: 30px;
+    color: rgb(208, 49, 57);
+    margin: 7px;
+
+}
+.sicon3{
+    font-size: 30px;
+    color: blue;
+    margin: 7px;
+}
